@@ -22,11 +22,8 @@ This website was made by Lior Ben by following the course - "Full-Stack Web Deve
 
 
 
-# Getting Started with Create React App
+# Getting Started
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
 
 In the project directory, you can run:
 
