@@ -2,6 +2,26 @@
 
 This website was made by Lior Ben by following the course - "Full-Stack Web Development Bootcamp".
 
+<br>
+
+### Homepage View
+<img width="1428" alt="Screen Shot 2022-03-13 at 16 42 48" src="https://user-images.githubusercontent.com/81048007/158065221-51800b9b-e120-4a2d-b1da-c78ec11a68af.png">
+
+### Login Screen
+
+<img width="691" alt="Screen Shot 2022-03-13 at 16 21 44" src="https://user-images.githubusercontent.com/81048007/158065310-01415986-be28-4a1a-88f2-10437703ced5.png">
+
+### Book A Flight
+
+<img width="691" alt="Screen Shot 2022-03-13 at 16 22 50" src="https://user-images.githubusercontent.com/81048007/158065360-85e7b843-5f21-4e30-841c-772eb6af3674.png">
+
+
+<br>
+<br>
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
